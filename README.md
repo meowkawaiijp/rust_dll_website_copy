@@ -58,7 +58,3 @@ int main() {
 ### 貢献
 
 貢献は歓迎します！問題が発生した場合や改善の提案がある場合は、[GitHubリポジトリ](https://github.com/meowkawaiijp/rust_dll_website_copy)でIssueを開いてください。
-
----
-
-プロジェクトの特定の詳細や要件に応じて、このREADMEをカスタマイズしてください。
